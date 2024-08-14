@@ -1,0 +1,70 @@
+body {
+  background-color: gray;
+}
+
+#header,
+#problem,
+#solution {
+  text-align: center;
+}
+
+#header {
+  font-size: 28px;
+}
+
+#problem {
+  margin-top: 3%;
+  color: rgb(13, 13, 80);
+  font-size: 26px;
+}
+
+#word,
+#word-two,
+#word-three,
+#word-four,
+#word-five,
+#word-six,
+#word-seven {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#solution,
+#solution-two,
+#solution-three,
+#solution-four,
+#solution-five,
+#solution-six,
+#solution-seven {
+  color: rgb(16, 16, 100);
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.hidden,
+.hidden-two,
+.hidden-three,
+.hidden-four,
+.hidden-five,
+.hidden-six,
+.hidden-seven,
+.hidden-eight,
+.hidden-nine,
+.hidden-ten,
+.hidden-eleven,
+.hidden-twelve,
+.hidden-thirteen,
+.hidden-fourteen,
+.hidden-fifteen,
+.hidden-sixteen {
+  display: none;
+}
+
+#mongo,
+#mongoose {
+  width: 200px;
+  height: 250px;
+  border-radius: 5%;
+}

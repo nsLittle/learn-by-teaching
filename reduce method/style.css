@@ -1,0 +1,36 @@
+body {
+  background-color: gray;
+}
+
+#header,
+#problem,
+#huh,
+#solution {
+  text-align: center;
+}
+
+#header {
+  font-size: 28px;
+}
+
+#problem {
+  margin-top: 3%;
+  color: rgb(13, 13, 80);
+  font-size: 25px;
+}
+
+#huh {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#solution {
+  margin-top: 2%;
+  color: rgb(16, 16, 100);
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.hidden {
+  display: none;
+}
